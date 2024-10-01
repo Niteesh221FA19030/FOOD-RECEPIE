@@ -2,11 +2,11 @@ body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #e0f7fa; /* Cool light cyan background */
+    background-color: #fff3e0; /* Warm light peach background */
 }
 
 header {
-    background-color: #00acc1; /* Cool teal shade */
+    background-color: #ff8f00; /* Warm orange shade */
     color: white;
     text-align: center;
     padding: 20px;
@@ -22,7 +22,7 @@ input {
 
 button {
     padding: 10px 20px;
-    background-color: #00796b; /* Deep teal */
+    background-color: #f57c00; /* Deep orange */
     border: none;
     color: white;
     cursor: pointer;
@@ -31,7 +31,7 @@ button {
 }
 
 button:hover {
-    background-color: #004d40; /* Darker teal on hover */
+    background-color: #e65100; /* Darker orange on hover */
     transform: translateY(-3px); /* Hover lift effect */
 }
 
@@ -65,7 +65,7 @@ main {
 }
 
 .recipe h3 {
-    color: #00acc1; /* Cool teal shade for headings */
+    color: #ff8f00; /* Warm orange shade for headings */
     margin-bottom: 10px;
 }
 
@@ -77,7 +77,7 @@ main {
 a.viewRecipeBtn {
     display: block;
     padding: 10px;
-    background-color: #00796b; /* Button color */
+    background-color: #f57c00; /* Button color */
     color: white;
     text-align: center;
     text-decoration: none;
@@ -87,13 +87,13 @@ a.viewRecipeBtn {
 }
 
 a.viewRecipeBtn:hover {
-    background-color: #004d40; /* Darker teal on hover */
+    background-color: #e65100; /* Darker orange on hover */
 }
 
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #00acc1;
+    background-color: #ff8f00; /* Warm orange */
     color: white;
     position: relative;
     bottom: 0;
